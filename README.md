@@ -17,3 +17,7 @@ Tourist industry is also beneficial for the Hotel industry, we have to provide t
 - Room Type Available in Neighborhood
 - As per survey held between ‘2017–07–23’ to ‘2017–07–28’ most of tourist prefer Eixample and Ciutat vella in Barcelona
 
+Blog link 
+
+https://medium.com/@tmishra2129/barcelona-city-recommendation-on-the-basis-of-room-type-b8075cb267ea
+
